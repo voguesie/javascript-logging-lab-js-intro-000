@@ -1,3 +1,3 @@
 console.error("HALP!")
 console.log("We're happy we're made of wood.")
-console.log("Warning Will Robinson!")
+console.warn("Warning Will Robinson!")
